@@ -1,4 +1,4 @@
-package com.example.rickandmorty
+package com.serma.rickandmorty
 
 import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle

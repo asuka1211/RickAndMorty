@@ -1,4 +1,4 @@
-package com.example.rickandmorty
+package com.serma.rickandmorty
 
 import org.junit.Test
 
