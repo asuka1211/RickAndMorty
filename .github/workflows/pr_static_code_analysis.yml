@@ -21,7 +21,7 @@ jobs:
      - name: Run detekt
        run: ./gradlew detekt
      - name: Upload artifact 
-     - uses: actions/upload-artifact@v2
+       uses: actions/upload-artifact@v2
        with: 
           name: detekt_result
           path: build/detekt/detekt.html
